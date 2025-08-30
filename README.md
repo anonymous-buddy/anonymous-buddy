@@ -546,10 +546,13 @@ Purpose: Advanced persistent threat simulation
 
 ## 🌟 "1N 7H3 D1G174L 5H4D0W5, L3G3ND5 4R3 B0RN" 👻
 
-**Note:** The stuff above is just for fun and to show that hackers also have a sense of humor. They have feelings too, but they often can’t share them publicly. You can see the points above as a roadmap to spark your curiosity and push yourself to do something meaningful, because life is too busy to waste. 🎭⚡
 
 **Remember:** Every expert was once a beginner. Every master was once a disaster. 🎭⚡
 
 **The journey from noob to ghost is paved with broken systems and conquered challenges.** 💀🏆
 
+</div>
+
+<div style="background-color:red;">
+**Note:** The stuff above is just for fun and to show that hackers also have a sense of humor. They have feelings too, but they often can’t share them publicly. You can see the points above as a roadmap to spark your curiosity and push yourself to do something meaningful, because life is too busy to waste. 🎭⚡
 </div>
