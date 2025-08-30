@@ -554,5 +554,9 @@ Purpose: Advanced persistent threat simulation
 </div>
 
 <div align ="center">
+
+
 **Note:** The stuff above is just for fun and to show that hackers also have a sense of humor. They have feelings too, but they often can’t share them publicly. You can see the points above as a roadmap to spark your curiosity and push yourself to do something meaningful, because life is too busy to waste. 🎭⚡
+
+
 </div>
